@@ -1,0 +1,4 @@
+class Dishes:
+    name=""
+    cuisine=""
+    
